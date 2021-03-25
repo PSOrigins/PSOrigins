@@ -1,17 +1,42 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/7Yy4bnfjgS">
+  <img align="left" alt="PSOrigin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://open.spotify.com/user/216u7py72umy2frvs5xbhdeiq">
+  <img align="left" alt="PSorigin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-<!--
-**PSOrigins/PSOrigins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSOrigins)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of age and I have around 4 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Lioha#0001](https://discord.gg/7Yy4bnfjgS);
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 8 mins   █████████████████░░░░░░░░    
+C#           3 hrs 3 min     █████░░░░░░░░░░░░░░░░░░░░
+TypeScript   2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   
+SCSS         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   
+HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   
+```
+<!--END_SECTION:waka-->
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
