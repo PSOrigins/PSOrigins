@@ -26,7 +26,7 @@ Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 year
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <br />
 📊 *This Week I Spent My Time On:*
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PSOrigins&theme=gotham" alt="PSOrigins"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=PSOrigins&theme=gotham" alt="PSOrigins"/>
 
 📈 My GitHub Stats
 
