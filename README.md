@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of age and I have around 4 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
+Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of age and I have around 3 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
