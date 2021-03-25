@@ -27,15 +27,7 @@ Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 year
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 8 mins   █████████████████░░░░░░░░    
-C#           3 hrs 3 min     █████░░░░░░░░░░░░░░░░░░░░
-TypeScript   2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   
-SCSS         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   
-```
-<!--END_SECTION:waka-->
+<p alignt="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PSOrigins&layout=compact&theme=gotham" alt="PSOrigins"/>
 
 📈 My GitHub Stats
 
