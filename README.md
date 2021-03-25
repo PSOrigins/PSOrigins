@@ -39,4 +39,5 @@ HTML         30 mins         █░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=gotham" alt="PSOrigins" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSOrigins&layout=compact&theme=gotham" alt="PSOrigins"/>
