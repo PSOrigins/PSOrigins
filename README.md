@@ -5,9 +5,6 @@
 <a href="https://open.spotify.com/user/216u7py72umy2frvs5xbhdeiq">
   <img align="left" alt="PSorigin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 Hi, I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of age and I have around 4 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
