@@ -36,4 +36,4 @@ I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=gotham" alt="PSOrigins" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSOrigins&layout=compact&theme=gotham" alt="PSOrigins"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSOrigins&theme=gotham&langs_count=8" alt="PSOrigins"/>
