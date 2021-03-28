@@ -9,7 +9,9 @@
 <br />
 
 I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of age and I have around 3 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
-
+<br />
+### Viewer counter
+<img src="https://profile-counter.glitch.me/PSOrigins/count.svg" />
 <br />
   
 - 💬 Ask me about anything, I am happy to help;
