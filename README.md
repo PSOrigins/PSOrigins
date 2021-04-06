@@ -33,7 +33,8 @@ I'm Pijus Serapinas, a passionate web developer from Lithuania. I am 14 years of
 <br />
 
 📊 *This Week I Spent My Time On:*
-<p align="left"><img src="https://github.com/PSOrigins/PSOrigins/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 My GitHub Stats
 
