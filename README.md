@@ -14,8 +14,8 @@ I'm Pijus Serapinas, a passionate web and game developer from Lithuania. I am 14
 <img src="https://profile-counter.glitch.me/PSOrigins/count.svg" />
 <br />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Lioha#0001](https://discord.gg/7Yy4bnfjgS);
+- 💬  Ask me about anything, I am happy to help;
+- 📫  How to reach me: [Lioha#0001](https://discord.gg/7Yy4bnfjgS);
 
 **Languages and Tools:**  
 
