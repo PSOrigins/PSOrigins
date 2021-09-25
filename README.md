@@ -1,11 +1,5 @@
-### Heyyy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/7Yy4bnfjgS">
-  <img align="left" alt="PSOrigin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://open.spotify.com/user/216u7py72umy2frvs5xbhdeiq">
-  <img align="left" alt="PSorigin's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<br />
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 <br />
 
 I'm Pijus Serapinas, a passionate web and game developer from Lithuania. I am 14 years of age and I have around 3 years of experience in game development with "Unity" and C#, also around 2 years of experience with Python and the basics of React.js and Typescript 
@@ -42,4 +36,4 @@ JavaScript   8 mins          ░░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=gotham" alt="PSOrigins" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=PSOrigins&show_icons=true&theme=onedark" alt="PSOrigins" />
